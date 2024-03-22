@@ -43,6 +43,8 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+![image](https://github.com/Hezron-lix/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/139331337/5730fb32-dbda-48d9-b116-639fd85348f3)
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
